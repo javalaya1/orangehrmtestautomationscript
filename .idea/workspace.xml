@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3a12e3d-e845-434c-9821-4e273968d70e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SIMCwxuf9auLtZ4NjhGyZ1YYKx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/javalaya_learning/envision_learning/2023_Feb/Practicals/SeleniumIntellJPracticlas/orangehrmtestautomationscript/orangehrm_testdata"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\javalaya_learning\envision_learning\2023_Feb\Practicals\SeleniumIntellJPracticlas\orangehrmtestautomationscript\orangehrm_testdata" />
+      <recent name="C:\javalaya_learning\envision_learning\2023_Feb\Practicals\SeleniumIntellJPracticlas\orangehrmtestautomationscript\orangehrm_browserexes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\javalaya_learning\envision_learning\2023_Feb\Practicals\SeleniumIntellJPracticlas\orangehrmtestautomationscript\orangehrm_testng_runner_controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/javalaya_learning/envision_learning/2023_Feb/Practicals/SeleniumIntellJPracticlas/orangehrmtestautomationscript/orangehrm_testdata/orangehrm_testng_excecution_controller_compatable_testing.xml">
+    <configuration name="ATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.envision.orangehrmautomationscripts.excelutil.ATest" />
+      <module name="orangehrmtestautomationscript" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.orangehrmautomationscripts.excelutil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.envision.pageobjects.LoginPage" />
+      <module name="orangehrmtestautomationscript" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.pageobjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/javalaya_learning/envision_learning/2023_Feb/Practicals/SeleniumIntellJPracticlas/orangehrmtestautomationscript/orangehrm_testdata/orangehrm_testng_excecution_controller_compatable_testing.xml" type="TestNG" nameIsGenerated="true">
+      <module name="orangehrmtestautomationscript" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/orangehrm_testdata/orangehrm_testng_excecution_controller_compatable_testing.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/javalaya_learning/envision_learning/2023_Feb/Practicals/SeleniumIntellJPracticlas/orangehrmtestautomationscript/orangehrm_testdata/orangehrm_testng_excecution_controller.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrmtestautomationscript" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/orangehrm_testdata/orangehrm_testng_excecution_controller.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrmtestautomationscript" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.envision.testrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.envision.testrunner.OrangeHrm_EmployeePortal_TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner.VerifyTheUserProfilePageLinks (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="orangehrmtestautomationscript" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.envision.testrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.envision.testrunner.OrangeHrm_EmployeePortal_TestRunner" />
+      <option name="METHOD_NAME" value="VerifyTheUserProfilePageLinks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrangeHrm_EmployeePortal_TestRunner.VerifyingTheLoginCredentialsAvailability" type="TestNG" nameIsGenerated="true">
+      <module name="orangehrmtestautomationscript" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.envision.orangehrmautomationscripts.testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.envision.orangehrmautomationscripts.testrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.envision.orangehrmautomationscripts.testrunner.OrangeHrm_EmployeePortal_TestRunner" />
+      <option name="METHOD_NAME" value="VerifyingTheLoginCredentialsAvailability" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner.VerifyTheUserProfilePageLinks (1)" />
+        <item itemvalue="TestNG.OrangeHrm_EmployeePortal_TestRunner" />
+        <item itemvalue="Application.LoginPage" />
+        <item itemvalue="Application.ATest" />
+        <item itemvalue="TestNG.C:/javalaya_learning/envision_learning/2023_Feb/Practicals/SeleniumIntellJPracticlas/orangehrmtestautomationscript/orangehrm_testdata/orangehrm_testng_excecution_controller.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3a12e3d-e845-434c-9821-4e273968d70e" name="Changes" comment="" />
+      <created>1688829521162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688829521162</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
