@@ -21,7 +21,7 @@ public class BrowserFactory {
                 BrowserFactory.driver = new ChromeDriver();
                 break;
             case "edge":
-                 //System.setProperty("webdriver.edge.driver", "orangehrm_browserexes/msedgedriver.exe");
+                 System.setProperty("webdriver.edge.driver", "orangehrm_browserexes/msedgedriver.exe");
                 //WebDriverManager.edgedriver().setup();
                 BrowserFactory.driver = new EdgeDriver();
                 break;
