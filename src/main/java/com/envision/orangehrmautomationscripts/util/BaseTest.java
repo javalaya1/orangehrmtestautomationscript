@@ -55,11 +55,11 @@ public abstract class BaseTest {
     @AfterSuite
     public void generateReport() {
         BaseTest.extentReports.flush();
-        try {
-            Desktop.getDesktop().browse(new File("eagle/AllTests.html").toURI());
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+//        try {
+//            Desktop.getDesktop().browse(new File("eagle/AllTests.html").toURI());
+//        } catch (IOException e) {
+//            throw new RuntimeException(e);
+//        }
     }
 
     @AfterMethod
